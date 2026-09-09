@@ -1,0 +1,27 @@
+# Generated source data
+data/
+
+# Generated embeddings
+embeddings/
+
+# Generated vocabulary terms
+terms/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDEs / editors
+.vscode/
+.idea/
